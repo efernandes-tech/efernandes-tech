@@ -26,7 +26,7 @@ Aqui você vai encontrar diversos repositórios, desde tecnologias que estou est
   <a href="https://www.edersonfernandes.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-Portifólio-%23EDEDED?style=for-the-badge&logo=googlechrome&logoColor=black" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/edersonlrf" target="_blank">
+  <a href="https://www.linkedin.com/in/efernandes-tech" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>  
 </div>
@@ -34,7 +34,7 @@ Aqui você vai encontrar diversos repositórios, desde tecnologias que estou est
 ### Status:
 
 <div>
-  <a href="https://github.com/edersonlrf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edersonlrf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edersonlrf&layout=compact&langs_count=6&theme=dracula"/>
+  <a href="https://github.com/efernandes-tech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efernandes-tech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efernandes-tech&layout=compact&langs_count=6&theme=dracula"/>
 </div>
